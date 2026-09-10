@@ -26,9 +26,15 @@ A responsive web application built with HTML5, CSS3, and modern JavaScript that 
 </p>
 
 <p align="center">
-  <img src="screenshots/about_contact.png" alt="About & Contact Page" width="700"/>
+  <img src="screenshots/about.png" alt="About Page" width="700"/>
   <br>
-  <em>About Us & Contact Us Interface</em>
+  <em>About Us Interface</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/contact.png" alt="Contact Page" width="700"/>
+  <br>
+  <em>Contact Us Interface</em>
 </p>
 
 ---
