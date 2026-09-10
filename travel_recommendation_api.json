@@ -1,0 +1,64 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=500",
+          "description": "A vibrant city known for its iconic Sydney Opera House and picturesque harbor views."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1514395462725-fb4566210144?w=500",
+          "description": "Renowned for its culture, arts, historic laneways, and world-class coffee."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=500",
+          "description": "A bustling metropolis blending ultra-modern skyscrapers with historic temples."
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=500",
+          "description": "Famous for classical Buddhist temples, gardens, imperial palaces, and shrines."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=500",
+      "description": "The largest religious monument in the world, originally built as a Hindu temple."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=500",
+      "description": "An immense mausoleum of white marble, recognized globally as a masterpiece of architecture."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500",
+      "description": "Famous for its turquoise waters, overwater bungalows, and vibrant coral reefs."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=500",
+      "description": "A vibrant crescent beach in Rio de Janeiro known for high-energy beach sports and culture."
+    }
+  ]
+}
